@@ -1,0 +1,44 @@
+﻿  SGD_AudioManager.cpp
+  SGD_Event.cpp
+  SGD_EventManager.cpp
+  SGD_Geometry.cpp
+  SGD_GraphicsManager.cpp
+  SGD_InputManager.cpp
+  SGD_Listener.cpp
+  SGD_Message.cpp
+  SGD_MessageManager.cpp
+  AnchorPointAnimation.cpp
+  AquaGoddess.cpp
+  BitmapFont.cpp
+  CellAnimation.cpp
+  CreateEnemyMessage.cpp
+  CreateFireBallMessage.cpp
+  CreatePlasmaMessage.cpp
+  CreateWindStyleShurikenMessage.cpp
+  CreditsState.cpp
+  DestroyEntityMessage.cpp
+  Enemies.cpp
+  Compiling...
+  Entity.cpp
+  EntityManager.cpp
+  FireMage.cpp
+  Ghast.cpp
+  Game.cpp
+  GameplayState.cpp
+  Goblin.cpp
+  Heroes.cpp
+  HowtoplayState.cpp
+  LevelselectionState.cpp
+  MainMenuState.cpp
+  Map.cpp
+  OptionsState.cpp
+  Plasma.cpp
+  Spire.cpp
+  Tower.cpp
+  UndeadBoxer.cpp
+  WinMain.cpp
+  Zephyr.cpp
+  Generating code
+  All 1975 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameProject.vcxproj -> C:\Users\noelm\Documents\GitHub\Tower-Defense\Code\Release\GameProject.exe
